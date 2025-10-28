@@ -43,4 +43,21 @@ It’s a fully client-side project — no backend, database, or external server 
 ---
 
 ## Project Structure
+mapty/
+├── index.html
+├── style.css
+├── script.js
+├── icon.png
+└── README.md
+
+
+---
+
+## Installation and Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/henokmualat/mapty-website.git
+cd mapty-website
+
 
